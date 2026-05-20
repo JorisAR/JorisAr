@@ -7,5 +7,5 @@
   - Procedural generation
   - (General purpose) GPU programming
 
-- I write about some of my projects on my [portfolio page](https://jorisar.github.io/portfolio/posts/).
+- I write about some of my projects on my [blog](https://jorisar.nl).
 
